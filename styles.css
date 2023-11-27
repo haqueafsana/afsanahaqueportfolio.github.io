@@ -6,14 +6,14 @@ body, ul, li {
 
 
 header {
-    background-color: #92ce93; 
+    background-color: #92ce93;
     color: #fff;
 }
 
 nav ul {
     display: flex;
     justify-content: space-around;
-    padding: 1rem;
+    padding: 15px;
 }
 
 nav a {
@@ -29,17 +29,18 @@ nav a:hover {
 
 main {
     text-align: center;
-    padding: 2rem;
+    padding: 20px;
 }
 
 h1 {
     font-size: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 10px;
 }
 
 p {
-    font-size: 1.2rem;
+    font-size: 20px;
 }
+
 
 
 
