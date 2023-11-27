@@ -1,4 +1,46 @@
-body {
-  color:black;
-  background-color: yellow; 
+body, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
+
+
+header {
+    background-color: #92ce93; 
+    color: #fff;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+main {
+    text-align: center;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+
+
+
